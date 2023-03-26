@@ -1,0 +1,30 @@
+[
+  {
+    "sname": "Ashwin Kiran Sapkale",
+    "pname": "Payment Gateway Using Django",
+    "pdes": "we know that payment is the requires a service that needs to be secured so to overcome this we integrate python django with razor pay website and gives u bill after sucessfull payment",
+    "sphoto": "https://www.linkpicture.com/q/Grey-Minimalist-Business-Twitter-Profile-Picture-Facebook-Cover-1-1-1.png",
+    "pimg": "https://www.linkpicture.com/q/Colorful-Project-Retro-Deck-Presentation-275-t-183-px.gif",
+    "ptech": "python Django Html Css Js sqlite razorpay",
+    "skills": "c c++ java python html css js node.js",
+    "linkdin": "https://www.linkedin.com/in/ashwin-sapkale-874a91189/",
+    "github": "https://github.com/ashwinsapkale65",
+    "source": "https://github.com/ashwinsapkale65/paymentgatewaywithdjango",
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:6975697687664898048/?utm_source=share&utm_medium=member_desktop",
+    "udate": "16-03-2023"
+  },
+  {
+    "sname": "Ashwin Kiran Sapkale",
+    "pname": "Attendence App",
+    "pdes": "this app provides easy way to mark the attendence of students with own login id and password teacher can create class,add students,update delete students and easily monitor the students attendence we provide the teachers with logout login option so that they can handle their sessions also logout feature is created to handle the security of the uses",
+    "sphoto": "https://www.linkpicture.com/q/Grey-Minimalist-Business-Twitter-Profile-Picture-Facebook-Cover-1-1-1.png",
+    "pimg": "https://www.linkpicture.com/q/Blue-Modern-Business-Project-Presentation-275-t-183-px-1.gif",
+    "ptech": "java firebase database",
+    "skills": "c c++ java python html css js node.js android web",
+    "linkdin": "https://www.linkedin.com/in/ashwin-sapkale-874a91189/",
+    "github": "https://github.com/ashwinsapkale65",
+    "source": "https://github.com/ashwinsapkale65/teacherszone-app",
+    "demo": "https://www.linkedin.com/posts/ashwin-sapkale-874a91189_new-android-appteacherszone-for-real-time-activity-6976499576790822913-bVn6?utm_source=share&utm_medium=member_desktop",
+    "udate": "20-03-2023"
+  }
+]
